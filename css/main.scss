@@ -562,6 +562,10 @@ $baseurl: '{{ site.baseurl }}/images';
         }
     }
 
+    .clear {
+         clear: both;
+    }
+
 /* List */
 
 	ol {
