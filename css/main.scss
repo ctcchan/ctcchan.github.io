@@ -209,6 +209,10 @@ $baseurl: '{{ site.baseurl }}/images';
 		text-align: right;
 	}
 
+    .image-tag {
+        text-align: center;
+    }
+
 /* Section/Article */
 
 	section, article {
@@ -557,6 +561,7 @@ $baseurl: '{{ site.baseurl }}/images';
             margin-right: auto;
         }
     }
+
 /* List */
 
 	ol {
