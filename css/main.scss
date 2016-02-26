@@ -546,6 +546,10 @@ $baseurl: '{{ site.baseurl }}/images';
 				width: 100%;
 			}
 		}
+
+        &.score {
+            opacity: 0.7;
+        }
 	}
 
 /* List */
